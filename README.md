@@ -1,1 +1,2 @@
 # Autobiography
+My name is Andrew Hunt. I have an associate's degree in Applied Science and Computer Technology. My career goal is have more diversity in my day to day job instead of doing the same thing everyday. I chose to study Fintech because I already have a background in technology, am good with numbers, and want to help people with their money troubles.
